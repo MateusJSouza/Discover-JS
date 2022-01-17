@@ -8,4 +8,4 @@
 let name = new String('Mateus')
 let age = new Number(23)
 
-console.log(name, age);;
+console.log(name, age);
