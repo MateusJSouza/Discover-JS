@@ -34,3 +34,6 @@ console.log(decrement)
 
 console.log("decrementando antes: ", --decrement)
 console.log(decrement)
+
+// exponencial **
+console.log(3 ** 2)
